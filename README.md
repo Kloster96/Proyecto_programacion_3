@@ -83,6 +83,8 @@ JWT_SECRET=<clave secreta>
 PORT=3000
 ADMIN_INVITE_TOKEN=4588944
 
+.ENV Lo deje para que puedan hacer la pruebas, cualquier cosa preguntenmete
+
 🔃 Correr el proyecto
 cd backend
 npm run dev
