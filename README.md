@@ -92,6 +92,11 @@ npm run dev
 cd frontend
 npm run dev
 
+Aviso
+
+La base de datos puede tardar unos segundos en activarse si estuvo inactiva,
+porque es un plan gratuito de MongoDB Atlas. Si ve un error al principio, espere unos segundos y recargue
+
 
 👨‍💻 Autor
 
