@@ -91,3 +91,8 @@ npm run dev
 
 cd frontend
 npm run dev
+
+
+👨‍💻 Autor
+
+Luciano Kloster
