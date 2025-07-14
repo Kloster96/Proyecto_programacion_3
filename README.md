@@ -73,7 +73,8 @@ cd backend
 npm install
 
 # Instalar dependencias del frontend
-cd ../frontend
+cd frontend
+cd Gestor-De-Tareas
 npm install
 ```
 Configurar .env en backend
