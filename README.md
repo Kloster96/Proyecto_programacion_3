@@ -98,6 +98,26 @@ Aviso
 La base de datos puede tardar unos segundos en activarse si estuvo inactiva,
 porque es un plan gratuito de MongoDB Atlas. Si ve un error al principio, espere unos segundos y recargue
 
+🌍 Deploy (Producción)
+
+El proyecto está desplegado gratuitamente usando:
+
+Servicio	Uso	Link
+Render	Backend (Node + Express + MongoDB)	https://backend-gestordetareas.onrender.com
+
+Vercel	Frontend (React + Vite)	https://TU-LINK-DE-VERCEL-AQUÍ
+[![Deploy Backend](https://img.shields.io/badge/Backend-Render-blue)](https://backend-gestordetareas.onrender.com)
+[![Deploy Frontend](https://img.shields.io/badge/Frontend-Vercel-black)](https://TU-LINK-DE-VERCEL-AQUÍ)
+
+
+🕒 Aviso importante:
+Como el backend está corriendo en el plan gratuito de Render, el servidor se pone en modo suspensión cuando no se usa.
+Por eso, la primera vez que ingreses puede tardar entre 10 y 20 segundos en responder.
+Luego de eso, el rendimiento es normal.
+
+El frontend se encuentra desplegado en Vercel, que permite hacer deploy automático cada vez que hago un push en GitHub.
+El backend está en Render, que mantiene el servidor Node.js activo y conectado a la base de datos en MongoDB Atlas.
+
 
 👨‍💻 Autor
 
